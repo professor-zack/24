@@ -1,0 +1,5 @@
+This mini-project aims to create an algorithm to solve the problem of 24.
+
+"Solving" 24 is defined as identifying and producing all possible solutions if there is one, or verifying that there is no solution if there isn't one.
+
+The problem of 24 becomes considerably trickier due to how brackets are often used to arrive at a solution. For example, given the four numbers 1, 1, 4, 9, the only way to get 24 would be to subtract 1 from 9 to get 8, while separately subtracting the remaining 1 from 4 to get 3, then 8 times 3 gives 24. Mathematically, it would be (9-1)*(4-1) = 8*3 = 24. This is what I mean when I say brackets are used. Without the use of brackets in this case (as with many other possible combinations of 4 numbers), 24 would otherwise not be able to be derived. Or in other words, the order in which the arithmetic operations are carried out is critical to arriving at 24.
